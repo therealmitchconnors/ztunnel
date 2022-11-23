@@ -1,0 +1,1 @@
+FROM gcr.io/istio-testing/build-tools:master-65b95c3425a26e633081b2d0834cc0df6e81fd8a
